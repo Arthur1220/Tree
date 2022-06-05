@@ -1,3 +1,3 @@
 # Tree
 
-#Binary tree made for data structure discipline
+#Arvore binaria feita para a disciplina de estrutura de dados
